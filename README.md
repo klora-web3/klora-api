@@ -21,5 +21,17 @@ Make sure that you have setup the environment properly. You will need minimum PH
 6. Run migrations `php artisan migrate`
 7. Start local server by executing `php artisan serve`
 
+##  Hit API Klora Auth Doc
+### Register 
+![image](https://github.com/klora-web3/klora-api/assets/77913475/2f64563e-476a-45b4-b1c6-d8afff92d926)
+### Login
+![image](https://github.com/klora-web3/klora-api/assets/77913475/1c9e87be-f4f0-44cd-aa34-ceaae0fcd0c3)
+### Me
+![image](https://github.com/klora-web3/klora-api/assets/77913475/b4be76a4-378b-4768-a736-14425550d84b)
+### Refresh
+![image](https://github.com/klora-web3/klora-api/assets/77913475/1d1401f5-6936-40ca-80a2-c6ed06b13b07)
+### Logout
+![image](https://github.com/klora-web3/klora-api/assets/77913475/00fa2cc7-b247-4205-a31f-abf2147b553c)
+
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
